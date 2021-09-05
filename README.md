@@ -13,6 +13,9 @@ The COVID-19 Pandemic has disrupted every aspect of life and two aspects inparti
 Create an IOS and an Android application which presents to the user the location of businesses that sell a specific selected item. This reassures to the customer that they can find these items
 within there local community and thus won't have to go to another supermarkt (usually a big market) which is located in another community and is thus far away and/or they can find alternative markets which is closer to them then the previous markets they'd need to go for select items. Our actual application will generate a map once the customer has searched for and clicked the necessary product they need to buy. This map will have arrows/pointers to the location of the appropriate business's which sell that item within the selected search radius they want. 
 
+<img width="432" alt="Screen Shot 2021-04-05 at 12" src="https://user-images.githubusercontent.com/65147934/132127492-e47a75a4-c4b2-4467-8b35-676e320c8719.png">
+
+
 # Features (to be fully implemented)...
 
 1. For each business which pops up on the map, there arrow will be colour coded. Each colour will represent the stock availability for that specific product, it also takes into consideration the rate at which the product is bought. This is to ensure that customers aren't misled by these colours as they can change, thus by the time they've already arrived to the shop then stock availability level maybe critical. 
@@ -47,3 +50,5 @@ As we develop the app more and more, we'll try to add as many items as possible 
 One of the constraints would be, if business's are willing to cooperate with us as we need there data. However at the same time, we may be giving them some sort of online platform they've never had so this would give them some incentive to actually be on this app. Ultimately, with government funding and financial support there would be an effective rollout in the especially rural communities. Another, constraint would be to get permission to have data such as stock availability rates and customer level rates however if the rollout of the application proves to be strong it will be easier to move on to the next stages of the application. 
 
 This app will be released on an IOS and an ANDROID app. However, as we get into the further stages we may make a Website for this application in order to maximise our reach to people who particularly would need / benefit of it. 
+
+
